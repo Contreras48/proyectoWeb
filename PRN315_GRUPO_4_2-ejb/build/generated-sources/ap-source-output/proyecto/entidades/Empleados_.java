@@ -9,7 +9,7 @@ import proyecto.entidades.Empleados;
 import proyecto.entidades.Ordenes;
 import proyecto.entidades.Territorios;
 
-@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2020-11-25T16:54:09")
+@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2020-11-27T11:39:20")
 @StaticMetamodel(Empleados.class)
 public class Empleados_ { 
 

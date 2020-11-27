@@ -7,7 +7,7 @@ import javax.persistence.metamodel.StaticMetamodel;
 import proyecto.entidades.Empleados;
 import proyecto.entidades.Region;
 
-@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2020-11-25T16:54:09")
+@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2020-11-27T11:39:20")
 @StaticMetamodel(Territorios.class)
 public class Territorios_ { 
 
